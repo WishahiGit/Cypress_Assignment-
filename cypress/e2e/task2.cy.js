@@ -1,5 +1,8 @@
 import { BaseTest } from './BaseTest';
 
+//The requested color of the Pencil Sharpener was Blue (EPS4-BLUE).
+//Since the exact product was not available and the similar color option was listed under "Buying Options,"
+//I went ahead and selected the same product in a slightly darker shade: Blue Chrome Metallic.
 const PRODUCT_NAME = 'Office Personal Electric Pencil Sharpener, Powerful Stall-Free Motor, High Capacity Shavings Tray, Blue Chrome Metallic';
 
 describe('Task 2 - Add items to cart flow', () => {
