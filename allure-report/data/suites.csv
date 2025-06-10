@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","72550","Add two products to cart, validate shipping eligibility, then clear the cart","","Tue Jun 10 19:29:41 IDT 2025","passed","Tue Jun 10 19:30:54 IDT 2025","","Task 2 - Add items to cart flow","",""
+"","41641","Navigate through Menutabs and perform customer service operations","","Tue Jun 10 19:28:59 IDT 2025","passed","Tue Jun 10 19:29:41 IDT 2025","","Task 1 - MainMenu flow","",""
+"","17731","Validate logged-in status","","Tue Jun 10 19:28:41 IDT 2025","passed","Tue Jun 10 19:28:59 IDT 2025","","Login Flow","",""
